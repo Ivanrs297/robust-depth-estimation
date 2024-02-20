@@ -1,0 +1,16 @@
+test_infectado
+
+score1 = model_1(test_infectado)
+score2 = model_2(test_infectado)
+...
+scoreN = model_N(test_infectado)
+
+
+
+c = 5
+s = 5
+
+scores_
+
+
+python evaluate_depth.py --corruption gaussian_blur --severity 2 --data_path ..\..\data\raw\SCARED\ --load_weights_folder ..\..\models\Model_MIA\Model_MIA\ --eval_mono
